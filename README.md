@@ -1,6 +1,7 @@
 # Rock vs. Mine Prediction using SONAR Data with Logistic Regression
 
-![SONAR](sonar_image.jpg)
+
+![sonar image](https://github.com/ellysher/SONAR-ROCK-VS-MINE-PREDICTION/assets/136334841/24df3eaa-16ed-499d-b8bb-c23e4cb1e186)
 
 ## Overview
 This project aims to predict whether an object in an underwater environment is a rock or a mine using SONAR data. SONAR (Sound Navigation and Ranging) technology is widely used for acoustic detection and classification of objects underwater. For this project, we implemented a Logistic Regression model in Python to perform binary classification between rocks and mines based on the SONAR readings.
